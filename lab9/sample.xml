@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>BBC News - World</title>
+        <link>https://www.bbc.co.uk/news/world</link>
+        <description>The latest stories from the World section of the BBC News website.</description>
+        <language>en-gb</language>
+        <lastBuildDate>Mon, 21 Feb 2022 12:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Ukraine crisis: Russia orders troops into separatist regions</title>
+            <link>https://www.bbc.co.uk/news/world-europe-60468237</link>
+            <description>President Putin orders forces into two rebel-held areas of eastern Ukraine, after recognising them as independent.</description>
+            <pubDate>Mon, 21 Feb 2022 11:45:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-60468237</guid>
+        </item>
+        <item>
+            <title>Canada protests: Police clear Ottawa bridge as crackdown continues</title>
+            <link>https://www.bbc.co.uk/news/world-us-canada-60468238</link>
+            <description>Police in Canada make dozens of arrests as they continue efforts to end protests against Covid restrictions.</description>
+            <pubDate>Mon, 21 Feb 2022 10:30:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-us-canada-60468238</guid>
+        </item>
+    </channel>
+</rss>
+<!-- Rss новостная лента от BBC News.
+<rss> - основной корневой элемент с указанием версии. 
+<channel> - содержит метаданные(название, ссылка, описание) и список новостных элементов
+<item> - содержит заголовок, ссылку, описание и дату публикации 
+<guide> с атрибутом isPermaLink служит уникальным идентификатором-->

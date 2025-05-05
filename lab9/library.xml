@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="library.xsd">
+    <book id="b001">
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+        <genre>Роман</genre>
+        <price>25.99</price>
+    </book>
+    <book id="b002">
+        <title>1984</title>
+        <author>Джордж Оруэлл</author>
+        <year>1949</year>
+        <genre>Антиутопия</genre>
+        <price>19.50</price>
+    </book>
+    <book id="b003">
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+        <genre>Фантастика</genre>
+        <price>22.75</price>
+    </book>
+</library>
